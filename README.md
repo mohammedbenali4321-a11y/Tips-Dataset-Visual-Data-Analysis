@@ -11,7 +11,7 @@ Project link: [https://roadmap.sh](https://roadmap.sh/projects/data-visualizatio
 
 ---
 ## Project Requirements
-Load the Tips dataset with sns.load_dataset("tips")
+Load the Tips dataset with sns.load_dataset("tips").
 Create the following charts using both Matplotlib and Seaborn:
 
  * Histogram
@@ -24,7 +24,7 @@ Create the following charts using both Matplotlib and Seaborn:
 
  * Heatmap of correlations
  * 
-Customize labels, titles, font sizes, and color palettes
+Customize labels, titles, font sizes, and color palettes.
 Save at least me chart as a PNG file
 
 
