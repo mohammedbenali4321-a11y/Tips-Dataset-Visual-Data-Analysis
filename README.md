@@ -23,7 +23,7 @@ Create the following charts using both Matplotlib and Seaborn:
  * Scatter plot
 
  * Heatmap of correlations
- * 
+   
 Customize labels, titles, font sizes, and color palettes.
 Save at least me chart as a PNG file
 
