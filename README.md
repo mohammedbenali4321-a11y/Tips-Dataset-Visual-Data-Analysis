@@ -10,9 +10,9 @@ tips — 244 rows of restaurant bills: total_bill, tip, sex, smoker, day, time, 
 
 ---
 ## Project Requirements
-* Load the Tips dataset with sns.load_dataset("tips")
+ Load the Tips dataset with sns.load_dataset("tips")
 
-* Create the following charts using both Matplotlib and Seaborn:
+ Create the following charts using both Matplotlib and Seaborn:
 
  * Histogram
 
@@ -24,9 +24,10 @@ tips — 244 rows of restaurant bills: total_bill, tip, sex, smoker, day, time, 
 
  * Heatmap of correlations
 
-* Customize labels, titles, font sizes, and color palettes
+ Customize labels, titles, font sizes, and color palettes
+ 
 
-* Save at least one chart as a PNG file
+ Save at least one chart as a PNG file
 ---
 ## Technologies Used
 * Python
